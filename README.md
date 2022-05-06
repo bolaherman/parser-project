@@ -1,7 +1,6 @@
-# parser-project
+# Parser-project
 Building AI course project
 
-## Building AI course project
 ## Summary
 
 * PROBLEM: When hiring, professionals spend a lot of time going through several individual startups to find the right people for the job. It takes time and does not work. While this can be automated by a series of articles, it has many drawbacks. Candidates who know this process will add many more topics to be listed where others will ask even though they have the required skills.
